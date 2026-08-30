@@ -57,9 +57,31 @@ When the user clicks on one of the navigation dots:
 3. The current image is replaced with the selected image.
 4. The active dot is updated to indicate the selected image.
 
-For example:
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-```text
-Dot 1 → Product Image 1
-Dot 2 → Product Image 2
-Dot 3 → Product Image 3
+## 🎯 What I Learned
+
+- DOM Manipulation
+- JavaScript Event Listeners
+- Click Events
+- Changing Image Sources Dynamically
+- Working with Multiple Elements
+- Arrays in JavaScript
+- Functions
+- CSS Positioning
+- Responsive Web Design
+- Creating Interactive UI Components
+
+## 📚 Project Purpose
+
+This project was created as a front-end practice project to improve my understanding of HTML, CSS, and JavaScript.
+The main focus was on creating an interactive product UI and practicing JavaScript DOM manipulation and event handling.
+
+## 👨‍💻 Author
+Abdul Hannan
+
+Computer Science Student | Front-End Developer | Aspiring MERN Stack Developer
+Currently learning React.js and working toward becoming a MERN Stack Developer.
